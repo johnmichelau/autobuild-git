@@ -2,7 +2,7 @@
 
 # git-autobuild.sh
 #   This script is intended as a bare-bones replacement for a Jenkins continuous
-#   integration job.  It can configured and run completely headless via the
+#   integration job.  It can be configured and run completely headless via the
 #   command line, which isn't possible with Jenkins.  It should typically be
 #   setup to run via cron.
 #
